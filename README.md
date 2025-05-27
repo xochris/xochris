@@ -1,5 +1,24 @@
-<h1 align="center">👋 안녕하세요 (Hello)! My name is Christopher and I'm currently studying Data Science at Berkeley!</h1>
-<h3 align="center">Thanks for stopping by!</p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=안녕하세요!+Hi+There!+👋;+I'm+Christopher!;" />
+</h1>
+
+<h3 align="center">Aspiring Game Creator</h3>
+
+<br/>
+
+<div align="center">
+  
+  Junior studying Data Science at UC Berkeley!
+
+  Currently learning Javascript, Python and Unreal Engine!
+  
+  Thanks for stopping by!
+
+<div>
+
+<h2>Contact Me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/christopheruyi/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -9,9 +28,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-<h2>Socials</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/christopheruyi/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
 ###
 
 <div align="center">
@@ -20,13 +36,25 @@
 
 ###
 
+<div align="center">
+  <h2>🐍 The SNEK 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xochris/xochris/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
+###
+
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=cyns2nsjy0dfarjbu784fica1)
 
 ###
 
-<div align="left">
-  <h3 align="left">Visitor Count</p>
+<div align="center">
+  
+  Visitor Count:</p>
   <img src="https://profile-counter.glitch.me/xochris/count.svg?"  />
+  
 </div>
 
 ###
