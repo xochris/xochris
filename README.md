@@ -36,16 +36,6 @@
 
 ###
 
-<div align="center">
-  <h2>🐍 The SNEK 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xochris/xochris/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
-</div>
-
-###
-
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=cyns2nsjy0dfarjbu784fica1)
 
 ###
