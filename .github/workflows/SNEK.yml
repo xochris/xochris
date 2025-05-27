@@ -33,10 +33,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-          target branch: output
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -49,5 +48,6 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: Update snake animations
+          create_traget_branch: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
