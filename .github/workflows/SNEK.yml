@@ -40,7 +40,7 @@ jobs:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
-        run: git status
+        run: 1s -R dist
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
