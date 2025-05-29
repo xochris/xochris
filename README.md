@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=안녕하세요!+Hi+There!+👋;+I'm+Christopher!;" />
 </h1>
 
-<h3 align="center">Aspiring Game Creator</h3>
+<h3 align="center">Aspiring Game Creator, ask me about it!</h3>
 
 <br/>
 
