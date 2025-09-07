@@ -9,9 +9,9 @@
 
 <div align="center">
   
-  Junior studying Data Science at UC Berkeley!
+  Senior studying Data Science at UC Berkeley!
 
-  Currently learning Javascript, Python and Unreal Engine!
+  Currently learning SQL, Python and Unity/Unreal Engine!
   
   Thanks for stopping by!
 
