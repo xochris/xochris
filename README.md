@@ -43,7 +43,7 @@
 <div align="center">
   
   Visitor Count:</p>
-  <img src="https://profile-counter.glitch.me/xochris/count.svg?"  />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=xochris.xochris" alt="Visitor Count" />
   
 </div>
 
