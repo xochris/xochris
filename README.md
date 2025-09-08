@@ -39,12 +39,3 @@
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=cyns2nsjy0dfarjbu784fica1)
 
 ###
-
-<div align="center">
-  
-  Visitor Count:</p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xochris.xochris" alt="Visitor Count" />
-  
-</div>
-
-###
