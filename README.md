@@ -11,7 +11,7 @@
   
   Senior studying Data Science at UC Berkeley!
 
-  Currently learning SQL, Python and Unity/Unreal Engine!
+  Currently learning SQL, Python and Godot/Unreal Engine!
   
   Thanks for stopping by!
 
