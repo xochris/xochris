@@ -15,6 +15,13 @@
   
   Thanks for stopping by!
 
+<div align="left">
+
+Current Projects:
+[ ] Social Deduction App Game (Development started September 2025)
+[ ] Trading Bot (Plan to start October 2025)
+[ ] Unity RPG Roguelite Game (Plan to start October 2025)
+
 <div>
 
 <h2>Contact Me</h2>
