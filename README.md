@@ -22,7 +22,7 @@ Current Projects:
 - [ ] Trading Bot (Plan to start October 2025)
 - [ ] Unity RPG Roguelite Game (Plan to start October 2025)
 
-<div>
+<div align = "center">
 
 <h2>Contact Me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/christopheruyi/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
@@ -38,6 +38,7 @@ Current Projects:
 ###
 
 <div align="center">
+    
   <img src="https://streak-stats.demolab.com?user=xochris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
