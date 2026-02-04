@@ -18,9 +18,8 @@
 <div align="left">
 
 Current Projects:
-- [ ] Social Deduction App Game (Development started September 2025)
-- [ ] Trading Bot (Plan to start October 2025)
-- [ ] Unity RPG Roguelite Game (Plan to start October 2025)
+- [ ] Trading Bot (Plan to start February 2026)
+- [ ] Unity Game (Development Started 2026)
 
 <div align = "center">
 
